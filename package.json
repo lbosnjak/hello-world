@@ -1,0 +1,14 @@
+{
+  "name": "electron1",
+  "version": "0.0.1",
+  "description": "electron hello world",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Leo Bosnjak",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^7.0.1"
+  }
+}

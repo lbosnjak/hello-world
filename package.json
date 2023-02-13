@@ -9,6 +9,6 @@
   "author": "Leo Bosnjak",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^18.3.7"
+    "electron": "^23.0.0"
   }
 }
